@@ -24,5 +24,3 @@ _autosave-*
 *.tar.gz
 *.7z
 *.rar
-
-#stage it!
