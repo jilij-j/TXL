@@ -18,3 +18,9 @@ _autosave-*
 # Falls du deine Gerber-Ausgaben in einem Ordner namens "gerber" sammelst:
 # (Auskommentieren/Raute entfernen, wenn du den Ordner ignorieren willst)
 # gerber/
+
+# Komprimierte Archive und Dokumente (ZIP, TAR, etc.)
+*.zip
+*.tar.gz
+*.7z
+*.rar
